@@ -1,2 +1,1 @@
-# hot-chat
-same like wechat
+hot chat be like another social network
